@@ -7,7 +7,7 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
-shortTitle: Quickstart
+shortTitle: QuickstJanuaryart
 ---
 
 {% data reusables.actions.enterprise-github-hosted-runners %}
